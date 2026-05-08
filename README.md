@@ -114,4 +114,4 @@ I also ran the finished README through it once asking for feedback on clarity an
 
 ## Time spent
 
-*Roughly N hours. Most of that was the multi-homed routing problems described above and getting Npcap working — the actual code is pretty short.*
+*Roughly 12 hours. Most of that was the multi-homed routing problems described above and getting Npcap working — the actual code is pretty short.*
